@@ -1,4 +1,5 @@
-package 三数和最近;
+// 没有包，测试分支
+// package 三数和最近;
 
 import java.util.Arrays;
 
